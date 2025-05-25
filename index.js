@@ -12,7 +12,8 @@
 //console.log(hasHobbies);
 //console.log(user);
 //console.log(PI);
-//let age = 18;
+
+let age = 10;
 
 if (age >= 18) {
   console.log("Eres un adulto");
